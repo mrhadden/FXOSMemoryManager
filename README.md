@@ -1,7 +1,7 @@
 # FXOSMemoryManager
 **Note: Reference Source Only**
 
-## This code was adapted to save time from an embedded library called UMM.  I kept the source names the same to indicate the original source.  That said, modification have been made to that to suit the needs of the 65816 and FXOS.  It does a lot of bookkeeping that was easier to just use as a starting place, rather then write from scratch and have to debug everything.
+## This code was adapted to save time from an embedded library called UMM.  I kept the source names the same to indicate the original source.  That said, modification have been made to that to suit the needs of the 65816 and FXOS.  It does a lot of bookkeeping that was easier to just use as a starting place, rather than write from scratch and have to debug everything.
 
 *This source is provided to demostrate the memeory management system.  It will not compile, as is, but the functionality can be inspected.  One could remove the OS specific functionality and use the allocation/deallocation functionality.*
 
